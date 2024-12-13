@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jeremie LUCOTTE !
 
 ## 🌟 About Me
-I’m a passionate developer who loves building efficient and modern applications. I enjoy solving complex problems and learning new technologies. My expertise spans multiple programming languages and frameworks.
+I’m a passionate fullstack developer who loves building efficient and modern applications. I enjoy solving complex problems and learning new technologies. My expertise spans multiple programming languages and frameworks.
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
