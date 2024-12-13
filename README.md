@@ -17,6 +17,10 @@ I’m a passionate developer who loves building efficient and modern application
 &nbsp;
 [<img src="https://img.shields.io/badge/Solana-282C34?logo=solana&logoColor=00FFA3" alt="Solana logo" title="Solana" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 
 
