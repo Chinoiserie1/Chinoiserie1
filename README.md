@@ -7,10 +7,18 @@ I’m a passionate developer who loves building efficient and modern application
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
-![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
-![Solana](https://img.shields.io/badge/Blockchain-Solana-green)
-![Prisma](https://img.shields.io/badge/ORM-Prisma-blueviolet)
-![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC)
+[<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=363636" alt="Solidity logo" title="Solidity" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=2D3748" alt="Prisma logo" title="Prisma" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Solana-282C34?logo=solana&logoColor=00FFA3" alt="Solana logo" title="Solana" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
+
 
 ---
 
