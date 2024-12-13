@@ -41,7 +41,6 @@ I’m a passionate developer who loves building efficient and modern application
 ### 🎨 Badges
 Add visual flair to your profile with badges:
 
-```markdown
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
