@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeremie LUCOTTE !
 
-<!--
-**Chinoiserie1/Chinoiserie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I’m a passionate developer who loves building efficient and modern applications. I enjoy solving complex problems and learning new technologies. My expertise spans multiple programming languages and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages and Technologies
+
+### Programming Languages
+- **JavaScript** (Advanced)
+- **TypeScript** (Advanced)
+- **HTML**
+- **CSS**
+- **Solidity** (Advanced)
+- **SQL**
+
+### Frameworks and Tools
+- **Next.js**
+- **Tailwind CSS**
+- **Prisma ORM**
+- **Foundry**
+- **Solana Web3.js**
+- **Node.js**
+- **PostgreSQL**
+
+### Cloud and DevOps Tools
+- **AWS**
+- **Railway**
+- **Vercel**
+- **DigitalOcean**
+
+---
+
+## 📫 How to Reach Me
+- **GitHub**: [Chinoiserie1](https://github.com/Chinoiserie1)
+- **Email**: chixxdev@proton.me
+
+---
+
+### 🎨 Badges
+Add visual flair to your profile with badges:
+
+```markdown
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
+![Solana](https://img.shields.io/badge/Blockchain-Solana-green)
+![Prisma](https://img.shields.io/badge/ORM-Prisma-blueviolet)
+![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC)
