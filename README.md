@@ -25,34 +25,6 @@ I’m a passionate developer who loves building efficient and modern application
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />][tech_tools_anchor]
 
-
----
-
-## 💻 Languages and Technologies
-
-### Programming Languages
-- **JavaScript** (Advanced)
-- **TypeScript** (Advanced)
-- **HTML**
-- **CSS**
-- **Solidity** (Advanced)
-- **SQL**
-
-### Frameworks and Tools
-- **Next.js**
-- **Tailwind CSS**
-- **Prisma ORM**
-- **Foundry**
-- **Solana Web3.js**
-- **Node.js**
-- **PostgreSQL**
-
-### Cloud and DevOps Tools
-- **AWS**
-- **Railway**
-- **Vercel**
-- **DigitalOcean**
-
 ---
 
 ## 📫 How to Reach Me
