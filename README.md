@@ -9,6 +9,8 @@ I’m a passionate fullstack developer who loves building efficient and modern a
 &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=363636" alt="Solidity logo" title="Solidity" height="25" />][tech_tools_anchor]
